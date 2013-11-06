@@ -116,7 +116,8 @@ void STACK_setClearFunction( void* f, STACK* s );
 void STACK_destroy( STACK* s );
 
 /**
- * @example Here is an example on how to use the stack with a structure and how
+ * @example Using STACK
+ *              Here is an example on how to use the stack with a structure and how
  * 	        to clear it properly with the function pointer.
  *
  * @code
