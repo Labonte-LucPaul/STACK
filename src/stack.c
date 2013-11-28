@@ -1,10 +1,18 @@
-/*
- * stack.c
- *
- *  Created on: 18-11-2012
- *  Author: Luc Paul Labonté
- */
 
+/*
+ ============================================================================
+ Name        : stack.c
+ Author      : Luc Paul Labonté
+ Date        : 18-11-2012
+ Version     : 1.0
+ Copyright   : Copy right 2012-2014
+ Description : A simple stack of structured "objects".
+ Licence     : http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ Repository  : https://github.com/Labonte-LucPaul/STACK
+ Warning     : This code is provide as is.
+ ============================================================================
+ */
+ 
 
 #include <stdio.h>
 #include <stdlib.h>
